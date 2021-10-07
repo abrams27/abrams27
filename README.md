@@ -14,7 +14,7 @@ One day I would love to improve the world using my software development skills.
 
 ---
 
-<!-- If you are studing at University of Warsaw, you might be interested in [this](https://github.com/abrams27/mimuw) repository. -->
+If you are studing at University of Warsaw, you might be interested in [this](https://github.com/abrams27/mimuw) repository.
 
 ---
 
