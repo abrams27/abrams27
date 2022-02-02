@@ -1,6 +1,6 @@
 ### Hi! I'm Marcin Abramowicz
 
-I work in [JetBrains](https://github.com/JetBrains/) on the [Scala plugin for IntelliJ IDEA](https://github.com/JetBrains/intellij-scala).
+I work at [JetBrains](https://github.com/JetBrains/) on the [Scala plugin for IntelliJ IDEA](https://github.com/JetBrains/intellij-scala).
 
 ---
 
